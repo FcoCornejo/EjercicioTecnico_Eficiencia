@@ -103,7 +103,7 @@ No incluye pagos parciales ni devoluciones porque el archivo no contiene importe
 #### Secuencia
 ![Diagrama de Secuencia](diagramas/DS.png)
 
-Secuencia
+#### Actividad
 ![Diagrama de Actividad](diagramas/DA.png)
 
 #### Clase

@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+**/node_modules
+**/dist/
+**/TestResults/
+**/*.db
+**/*.db-shm
+**/*.db-wal
+.env
+.vs/
